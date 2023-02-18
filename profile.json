@@ -1,0 +1,14 @@
+{
+	"basics": {
+		"name": "Usama Munir",
+		"label": "Web Developer",
+		"picture": "profile.jpeg",
+		"email": "usama1munir@gmail.com",
+		"github": "http://github.com/usama1munir",
+		"summary": "A skilled and experienced WordPress developer with a passion for creating beautiful, functional, and user-friendly websites. With a Bachelor's degree in Computer Science and several years of experience in web development. Specializes in creating custom websites, eCommerce stores, and blogs that are optimized for performance, speed, and user experience."
+	},
+	"theme": {
+		"url": "https://github.com/prakis/stringify.me-theme",
+		"background" :"#954C04"
+	}
+}
